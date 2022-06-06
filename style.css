@@ -1,0 +1,51 @@
+body {
+  font-family: 'Open Sans';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins';
+}
+
+.err {
+  background: #ffe6ee;
+  border: 1px solid hsl(0, 100%, 63%);
+}
+.emsg {
+  color: hsl(0, 100%, 63%);
+  font-weight: bold;
+}
+
+.h-70-screen {
+  height: 70vh;
+}
+
+.bubble-gum {
+  background-color: hsl(322, 100%, 66%);
+}
+
+.bubble-gum:hover {
+  background-color: hsl(321, 100%, 78%);
+}
+
+.border-bubble-gum {
+  border-color: hsl(322, 100%, 66%);
+  color: hsl(322, 100%, 66%);
+}
+
+.border-bubble-gum:hover {
+  border-color: hsl(321, 100%, 78%);
+  color: hsl(321, 100%, 78%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
